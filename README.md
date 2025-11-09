@@ -8,7 +8,7 @@ The application takes two numbers from the user and performs a basic arithmetic 
 
 Here is the main interface of the calculator:
 
-![Basic Windows Forms Calculator](image_8befc0.png)
+![Basic Windows Forms Calculator](<img width="481" height="488" alt="calc_interface" src="https://github.com/user-attachments/assets/3a461af5-3a23-4dc7-88a8-c89947596437" />)
 
 ## ✨ Features
 
@@ -30,7 +30,7 @@ Here is the main interface of the calculator:
 
 1.  Clone this repository to your local machine.
     ```bash
-    git clone [https://github.com/MetehanSarica/Basic-Calculator-With-Windows-Forms](https://github.com/MetehanSarica/Basic-Calculator-With-Windows-Forms)
+    git clone https://github.com/MetehanSarica/Basic-Calculator-With-Windows-Forms.git
     ```
 2.  Open the `.sln` (Solution) file in Visual Studio.
 3.  Build the solution (F6 or `Build > Build Solution`).
