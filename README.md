@@ -8,7 +8,7 @@ The application takes two numbers from the user and performs a basic arithmetic 
 
 Here is the main interface of the calculator:
 
-![Basic Windows Forms Calculator](<img width="481" height="488" alt="calc_interface" src="https://github.com/user-attachments/assets/3a461af5-3a23-4dc7-88a8-c89947596437" />)
+![Basic Windows Forms Calculator](<img width="481" height="488" alt="calc_interface" src="https://github.com/user-attachments/assets/b57ab78d-4736-4b32-9f84-4a729b333a7b" />)
 
 ## ✨ Features
 
